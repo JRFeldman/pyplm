@@ -1,0 +1,21 @@
+﻿BMP Name,AGR,COM,FOR,OPS,RES,PUB,TRA
+Nutrient Management Plan - Agriculture,AGR,,,,,,
+Nutrient Management Plan - Urban,,COM,,,RES,PUB,
+Integrated Pest Management,AGR,,,OPS,RES,PUB,
+Incentive Program,,,,,RES,,
+Conservation Buffer,AGR,,,,,,
+Conservation Cover,AGR,,,,,,
+Grass Border,AGR,,,,,,
+Buffer/Filter Strip,AGR,,,,,,
+Riparian Buffer,AGR,,,,,,
+Critical Area Planting,AGR,,,,,,
+Streamside Management Area,AGR,,FOR,,,,
+Water Quality Basins,AGR,COM,,,RES,PUB,
+Bioretention/Biofilters,,COM,,,RES,PUB,
+Media Filter,AGR,COM,,,RES,PUB,TRA 
+Impervious Area Reduction,,COM,,,RES,PUB,
+Organic Farming,AGR,,,,,,
+Drinking Water Protection Zones,AGR,COM,FOR,OPS,RES,PUB,TRA
+Emergency Response Plan,,COM,,,RES,PUB,TRA 
+No-Till or Reduced Till,AGR,,,,,,
+Cover Crops,AGR,,,,,,

@@ -1,0 +1,14 @@
+﻿Pollutant,Unit,Minimum Concentration
+TSS,mg/L,8.1
+TP,mg/L,0.09
+NO3,mg/L,0.23
+NH3,mg/L,0.03
+PB,mg/L,0.001
+CU,mg/L,0.0046
+ZN,mg/L,0.017
+BOD,mg/L,2.47
+E.COLI,MPN/100 mL,300
+GLYPHOSATE,mg/L,0.00005
+"2,4-D",mg/L,0.00005
+CARBARYL,mg/L,0.00005
+OIL&GREASE,mg/L,2.33
